@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/swagg-republic/static/css/main.afafeea0.css",
+    "main.js": "/swagg-republic/static/js/main.fa6386c6.js",
+    "static/js/787.1e7da8cd.chunk.js": "/swagg-republic/static/js/787.1e7da8cd.chunk.js",
+    "static/media/Vinn&Triix2.png": "/swagg-republic/static/media/Vinn&Triix2.7fc53d210c749604e833.png",
+    "static/media/drapeau2.png": "/swagg-republic/static/media/drapeau2.77087c6d8282c770b976.png",
+    "static/media/drapeau.png": "/swagg-republic/static/media/drapeau.e3b83f1cc0f6e3a4cd29.png",
+    "static/media/SRtype.jpeg": "/swagg-republic/static/media/SRtype.8bf22db00df5df606db4.jpeg",
+    "static/media/BusinessOnlyGreen1.jpeg": "/swagg-republic/static/media/BusinessOnlyGreen1.baa35a6a9494f21a7cb9.jpeg",
+    "static/media/BusinessOnlyBlack2.jpeg": "/swagg-republic/static/media/BusinessOnlyBlack2.a4bc6ca32621be87c409.jpeg",
+    "static/media/BusinessOnlyGreen2.jpeg": "/swagg-republic/static/media/BusinessOnlyGreen2.f9c78ef0d9c9e915a6e9.jpeg",
+    "static/media/BusinessOnlyBlack1.jpeg": "/swagg-republic/static/media/BusinessOnlyBlack1.7e38fbaaac1a6019b4e3.jpeg",
+    "static/media/Vinn&Triix1.jpeg": "/swagg-republic/static/media/Vinn&Triix1.21eab1fff535a571e429.jpeg",
+    "static/media/sun.svg": "/swagg-republic/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
+    "static/media/water.svg": "/swagg-republic/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "index.html": "/swagg-republic/index.html",
+    "main.afafeea0.css.map": "/swagg-republic/static/css/main.afafeea0.css.map",
+    "main.fa6386c6.js.map": "/swagg-republic/static/js/main.fa6386c6.js.map",
+    "787.1e7da8cd.chunk.js.map": "/swagg-republic/static/js/787.1e7da8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afafeea0.css",
+    "static/js/main.fa6386c6.js"
+  ]
+}
