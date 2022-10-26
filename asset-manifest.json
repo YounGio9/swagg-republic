@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/swagg-republic/static/css/main.3885e2ac.css",
-    "main.js": "/swagg-republic/static/js/main.4607367d.js",
+    "main.css": "/swagg-republic/static/css/main.f2fb3fae.css",
+    "main.js": "/swagg-republic/static/js/main.2cdcff32.js",
     "static/js/787.1e7da8cd.chunk.js": "/swagg-republic/static/js/787.1e7da8cd.chunk.js",
     "static/media/Vinn&Triix2.png": "/swagg-republic/static/media/Vinn&Triix2.7fc53d210c749604e833.png",
     "static/media/drapeau2.png": "/swagg-republic/static/media/drapeau2.77087c6d8282c770b976.png",
@@ -15,12 +15,12 @@
     "static/media/sun.svg": "/swagg-republic/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
     "static/media/water.svg": "/swagg-republic/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
     "index.html": "/swagg-republic/index.html",
-    "main.3885e2ac.css.map": "/swagg-republic/static/css/main.3885e2ac.css.map",
-    "main.4607367d.js.map": "/swagg-republic/static/js/main.4607367d.js.map",
+    "main.f2fb3fae.css.map": "/swagg-republic/static/css/main.f2fb3fae.css.map",
+    "main.2cdcff32.js.map": "/swagg-republic/static/js/main.2cdcff32.js.map",
     "787.1e7da8cd.chunk.js.map": "/swagg-republic/static/js/787.1e7da8cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3885e2ac.css",
-    "static/js/main.4607367d.js"
+    "static/css/main.f2fb3fae.css",
+    "static/js/main.2cdcff32.js"
   ]
 }
