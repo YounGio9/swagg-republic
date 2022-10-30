@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/swagg-republic/static/css/main.c5dc4ee0.css",
-    "main.js": "/swagg-republic/static/js/main.20ad27b5.js",
+    "main.js": "/swagg-republic/static/js/main.3ef5b086.js",
     "static/js/787.1e7da8cd.chunk.js": "/swagg-republic/static/js/787.1e7da8cd.chunk.js",
     "static/media/Vinn&Triix2.png": "/swagg-republic/static/media/Vinn&Triix2.7fc53d210c749604e833.png",
     "static/media/drapeau2.png": "/swagg-republic/static/media/drapeau2.77087c6d8282c770b976.png",
@@ -14,11 +14,11 @@
     "static/media/Vinn&Triix1.jpeg": "/swagg-republic/static/media/Vinn&Triix1.21eab1fff535a571e429.jpeg",
     "index.html": "/swagg-republic/index.html",
     "main.c5dc4ee0.css.map": "/swagg-republic/static/css/main.c5dc4ee0.css.map",
-    "main.20ad27b5.js.map": "/swagg-republic/static/js/main.20ad27b5.js.map",
+    "main.3ef5b086.js.map": "/swagg-republic/static/js/main.3ef5b086.js.map",
     "787.1e7da8cd.chunk.js.map": "/swagg-republic/static/js/787.1e7da8cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5dc4ee0.css",
-    "static/js/main.20ad27b5.js"
+    "static/js/main.3ef5b086.js"
   ]
 }
