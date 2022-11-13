@@ -1,0 +1,64 @@
+.plant-item-cover {
+	height: 100%;
+	width: 100%;
+	border-radius: 20px;
+}
+.article-infos {
+	font-family: Courier, serif;
+	display: flex;
+	font-weight: lighter;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	height: 30%;
+	font-size: 1.1em;
+	color: inherit;
+}
+.article-item {
+	height: 250px;
+	background-color: transparent;
+	width: 45vw;
+	margin: 5px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+	position: relative;
+	color: black;
+}
+
+.plant-item-price {
+	font-weight: bold;
+	padding: 7px;
+
+}
+.item-gallery-swiper {
+	height: 400px;
+	width: 300px;
+}
+@media (max-width: 650px) {
+	.item-gallery-swiper {
+		padding: 0;
+		height: 170px;
+		width: 100%;
+	}
+}
+
+.article-item:hover, .article-item:focus {
+	color: blue;
+	opacity: 0.8;
+}
+
+#article-name {
+	text-align: left;
+}
+@media (min-width: 650px) {
+	.article-item {
+		width: 20vw;
+	}
+	.article-infos {
+		width: 100%;
+		font-size: 1.25em;
+	}
+}

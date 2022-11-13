@@ -1,0 +1,30 @@
+.search {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.88);
+    position: fixed;
+    margin: auto;
+    font-size: 1.1em;
+    z-index: 10;
+    opacity: 1;
+    transition: 1s;
+    top: 0;
+}
+.search-container {
+    position: absolute;
+    top: 18%;
+    left: 0;
+    right: 0;
+    width: 80%;
+    margin: auto;
+
+}
+.search-input {
+    margin-top: 10px;
+    width: 100%;
+    padding: 9px;
+    outline: 0;
+}
+.search-close {
+    opacity: 0;
+}

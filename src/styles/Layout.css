@@ -1,0 +1,6 @@
+.layout-inner {
+	display: flex;
+	flex-direction: row;
+	width: 100vw;
+	overflow-x: hidden;
+}

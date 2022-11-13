@@ -1,0 +1,40 @@
+.shopping-list {
+	width: 100%;
+	overflow: hidden;
+}
+
+.plant-list {
+	list-style-type: none;
+	padding: 32px 0;
+	min-height: 60vh;
+	margin: 0 0 ;
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+#swiper-container {
+	width: 50%;
+	
+}
+.carrousselImg {
+	width: 92%;
+	height: 63vh;
+	display: block;
+	margin: auto;
+}
+.swiper-wrapper {
+	padding-inline-start: 0;
+}
+
+@media screen and (max-width: 650px) {
+	#swiper-container {
+		width: 100%;
+	}
+}
+.plant-info-container {
+	position: relative;
+	margin-bottom: 35px;
+}
+

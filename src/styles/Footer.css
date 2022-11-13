@@ -1,0 +1,35 @@
+.footer {
+	color: white;
+	background-color: black;
+	padding: 25px;
+	border-top: solid 3px black;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+.footer-logo {
+	width: 65px ;
+	height: 40px;
+	
+}
+.reseaux {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-end;
+	width: 40%;
+
+}
+@media (max-width: 650px) {
+	.reseaux {
+		flex-direction: column;
+	}
+	#Whatsapp {
+		margin-top: 16px;
+	}
+}
+.footer-elem {
+	margin-bottom: 10px;
+}
+
