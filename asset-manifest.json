@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82446570.css",
-    "main.js": "/static/js/main.b044c71e.js",
+    "main.js": "/static/js/main.27cca4e8.js",
     "static/js/787.1e7da8cd.chunk.js": "/static/js/787.1e7da8cd.chunk.js",
     "static/media/Vinn&Triix2.png": "/static/media/Vinn&Triix2.7fc53d210c749604e833.png",
     "static/media/drapeau2.png": "/static/media/drapeau2.77087c6d8282c770b976.png",
@@ -14,11 +14,11 @@
     "static/media/Vinn&Triix1.jpeg": "/static/media/Vinn&Triix1.21eab1fff535a571e429.jpeg",
     "index.html": "/index.html",
     "main.82446570.css.map": "/static/css/main.82446570.css.map",
-    "main.b044c71e.js.map": "/static/js/main.b044c71e.js.map",
+    "main.27cca4e8.js.map": "/static/js/main.27cca4e8.js.map",
     "787.1e7da8cd.chunk.js.map": "/static/js/787.1e7da8cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82446570.css",
-    "static/js/main.b044c71e.js"
+    "static/js/main.27cca4e8.js"
   ]
 }
